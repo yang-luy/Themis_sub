@@ -1,0 +1,13 @@
+# Scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Data visualization
+matplotlib>=3.3.0
+
+# Space physics data tools
+pyspedas>=1.4.0
+pytplot>=1.7.0
+
+# Date/time handling
+python-dateutil>=2.8.0
